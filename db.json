@@ -1,9 +1,9 @@
 {
-  "posts": [
+  "echoback": [
     {
       "id": 1,
-      "title": "Hello World",
-      "author": "John Doe"
+      "body": "Nice echo!",
+      "echoId": 1
     }
   ],
   "comments": [
